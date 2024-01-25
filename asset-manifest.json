@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.94aae9e5.css",
+    "main.js": "/static/js/main.2de55030.js",
+    "static/js/787.81f35f0c.chunk.js": "/static/js/787.81f35f0c.chunk.js",
+    "static/media/profile_pic.jpg": "/static/media/profile_pic.70f0d5270de69709873f.jpg",
+    "static/media/university_of_california_irvine_logo.jpeg": "/static/media/university_of_california_irvine_logo.67a04bf7b9cc6f8911e2.jpeg",
+    "static/media/internhacks_logo.jpeg": "/static/media/internhacks_logo.134e5d758354aab242a1.jpeg",
+    "static/media/sprites.svg": "/static/media/sprites.eadc756a49b1867b90581b9bfc341a2a.svg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "static/media/journal-code.svg": "/static/media/journal-code.a5f4d354509e4d586264403db6a9f31e.svg",
+    "static/media/mortarboard.svg": "/static/media/mortarboard.8432cef461167a4e59ad9011dc8d18b6.svg",
+    "static/media/briefcase.svg": "/static/media/briefcase.31b64430d30451128286873a99241856.svg",
+    "static/media/house.svg": "/static/media/house.52a0fd6faca1fd0ac9f28ed68a75869f.svg",
+    "static/media/resume.svg": "/static/media/resume.a0162fde5c8b7f483ef64f5afc809a1e.svg",
+    "static/media/person-circle.svg": "/static/media/person-circle.27003da6e960564f3b1f94e70f6cc889.svg",
+    "main.94aae9e5.css.map": "/static/css/main.94aae9e5.css.map",
+    "main.2de55030.js.map": "/static/js/main.2de55030.js.map",
+    "787.81f35f0c.chunk.js.map": "/static/js/787.81f35f0c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94aae9e5.css",
+    "static/js/main.2de55030.js"
+  ]
+}
