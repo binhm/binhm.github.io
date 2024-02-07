@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.bc72e7d0.css",
-    "main.js": "/static/js/main.00ab7996.js",
+    "main.css": "/static/css/main.ef00ce45.css",
+    "main.js": "/static/js/main.7ea961bb.js",
     "static/js/787.81f35f0c.chunk.js": "/static/js/787.81f35f0c.chunk.js",
     "static/media/profile_pic.jpg": "/static/media/profile_pic.70f0d5270de69709873f.jpg",
     "static/media/university_of_california_irvine_logo.jpeg": "/static/media/university_of_california_irvine_logo.67a04bf7b9cc6f8911e2.jpeg",
@@ -15,12 +15,12 @@
     "static/media/house.svg": "/static/media/house.52a0fd6faca1fd0ac9f28ed68a75869f.svg",
     "static/media/resume.svg": "/static/media/resume.a0162fde5c8b7f483ef64f5afc809a1e.svg",
     "static/media/person-circle.svg": "/static/media/person-circle.27003da6e960564f3b1f94e70f6cc889.svg",
-    "main.bc72e7d0.css.map": "/static/css/main.bc72e7d0.css.map",
-    "main.00ab7996.js.map": "/static/js/main.00ab7996.js.map",
+    "main.ef00ce45.css.map": "/static/css/main.ef00ce45.css.map",
+    "main.7ea961bb.js.map": "/static/js/main.7ea961bb.js.map",
     "787.81f35f0c.chunk.js.map": "/static/js/787.81f35f0c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc72e7d0.css",
-    "static/js/main.00ab7996.js"
+    "static/css/main.ef00ce45.css",
+    "static/js/main.7ea961bb.js"
   ]
 }
